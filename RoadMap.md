@@ -34,14 +34,12 @@ vite?
 typescript??
 next.js??  -- for all these check road map video (first one) at min 7:00
 
-
-
-[Website Creation](https://www.youtube.com/watch?v=krfUjg0S2uI)
-
+Finish Basic Personal Porfolio
 
 ## Tune (Frontend)
+Draw flow and landing pages of website
 
-
+[Website Creation](https://www.youtube.com/watch?v=krfUjg0S2uI)
 
 ## Tune (Backend)
 [Backend overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
